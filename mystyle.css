@@ -1,0 +1,22 @@
+
+
+.elements .element{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+#tr{
+    background-color: rgb(82, 119, 119);
+    margin-right: 85%;
+}
+
+#tl{
+    background-color: rgb(102, 155, 72);
+}
+#br{
+    background-color: rgb(84, 117, 30);
+}
+#bl{
+    background-color: rgb(175, 75, 28);
+}
